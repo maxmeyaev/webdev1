@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgs {
+    display: flex;
+    border-radius: 1px solid dashed #ffff;
+}
