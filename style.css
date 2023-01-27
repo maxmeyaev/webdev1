@@ -9,3 +9,11 @@
     display: flex;
     border-radius: 1px solid dashed #ffff;
 }
+.img1 {
+    border-color: #ffff;
+    border-radius: 2px solid #ffff;
+}
+.pg2 {
+    display: flex;
+    justify-content: center;
+}
