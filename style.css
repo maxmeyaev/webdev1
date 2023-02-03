@@ -1,19 +1,46 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .header {
     display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    padding-top: 3em;
+    color: #ffff;
     justify-content: center;
     align-items: center;
     font-size: xx-large;
-    font-family: 'Times New Roman', Times, serif;
 }
+
 .imgs {
     display: flex;
-    border-radius: 1px solid dashed #ffff;
+    position: relative;
 }
+
 .img1 {
     border-color: #ffff;
     border-radius: 2px solid #ffff;
 }
+
 .pg2 {
     display: flex;
     justify-content: center;
+}
+.links {
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    padding-top: 5em;
+    color: #ffff;
+    justify-content: space-around;
+    align-items: center;
+    font-size: xx-large;
 }
