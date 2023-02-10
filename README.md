@@ -1,7 +1,7 @@
 
 # Assignment 1
 
-# Link
+# Deployed: https://maxmeyaev.github.io/webdev1/
 
 # Goal
 To create a basic website. Demonstrate familiarity with GitHub, understanding of git commands and feature branch workflow, as well as ability to work with HTML, CSS, and JavaScript.
