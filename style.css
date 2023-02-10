@@ -63,3 +63,8 @@ table, th, td {
     height: 400px;
     width: auto;
 }
+.header_3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
